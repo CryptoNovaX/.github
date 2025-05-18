@@ -39,7 +39,7 @@ Download the official CryptoNovaX app on [Google Play](https://play.google.com/s
 
 ## 📄 Documentation
 
-- [Whitepaper](https://cryptonvx.com/whitepaper.pdf)
+- [Whitepaper](https://www.cryptonvx.com/whitepaper.pdf)
 - [User Guide](https://www.cryptonvx.com/whitepaper.pdf)
 - [API Reference](https://www.cryptonvx.com/whitepaper.pdf)
 
